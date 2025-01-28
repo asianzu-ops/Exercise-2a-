@@ -29,3 +29,6 @@ The `glimpse()` function from the `dplyr` package in R provides a quick overview
 # Example of using the glimpse function
 library(dplyr)
 glimpse(data)
+```
+
+Testing! You forgot to close the last code block with ```. See above :)
